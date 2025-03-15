@@ -1,0 +1,13 @@
+{:dependencies []
+
+ :deps true
+ :dev-http {3333 "public"}
+
+ :source-paths
+ ["src"]
+
+ :builds
+ {:game {:target :browser
+         :output-dir "public/js"
+         :asset-path "/js"
+         :modules {:main {:entries [beltio.core]}}}}}

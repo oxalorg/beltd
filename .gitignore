@@ -1,0 +1,4 @@
+deps.local.edn
+.shadow-cljs
+node_modules
+public/
