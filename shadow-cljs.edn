@@ -10,4 +10,4 @@
  {:game {:target :browser
          :output-dir "public/js"
          :asset-path "/js"
-         :modules {:main {:entries [beltio.core]}}}}}
+         :modules {:main {:entries [beltd.core]}}}}}

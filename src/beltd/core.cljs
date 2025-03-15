@@ -1,3 +1,3 @@
-(ns beltio.core)
+(ns beltd.core)
 
 (println "Running")
